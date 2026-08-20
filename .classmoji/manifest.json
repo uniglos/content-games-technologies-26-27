@@ -1,0 +1,18 @@
+{
+  "repositories": {
+    "ct4102-playbuffer": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "arcade-game": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [],
+    "slides": []
+  }
+}
