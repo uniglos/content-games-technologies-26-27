@@ -18,7 +18,12 @@
     "ct5016-lyra": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "lyra-level": {
+          "pages": [],
+          "slides": []
+        }
+      }
     },
     "ct5108-boids": {
       "pages": [],
