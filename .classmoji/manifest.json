@@ -48,7 +48,12 @@
     "ct6024-boss-fight": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "boss": {
+          "pages": [],
+          "slides": []
+        }
+      }
     }
   },
   "general": {
