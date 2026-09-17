@@ -8,7 +8,12 @@
     "ct4102-unreal": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "tutorial": {
+          "pages": [],
+          "slides": []
+        }
+      }
     },
     "ct5016-als": {
       "pages": [],
