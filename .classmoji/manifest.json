@@ -28,7 +28,12 @@
     "ct5108-boids": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "boids": {
+          "pages": [],
+          "slides": []
+        }
+      }
     },
     "ct5108-racing-game": {
       "pages": [],
